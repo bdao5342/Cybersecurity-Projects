@@ -3,3 +3,4 @@ The research team at my organization needs to update the file permissions for ce
 ## Check file and directory details
 The following code demonstrates how I used Linux commands to determine the existing permissions set for a specific directory in the file system.
 
+![image alt] (https://github.com/bdao5342/Cybersecurity-Projects/blob/main/Screenshot%202025-09-06%20190633.png?raw=true)

@@ -15,15 +15,14 @@ Seeking Cyber Security Analyst Roles and Internships
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="[https://google.com](https://docs.google.com/document/d/1R_3XYYPD3KxAHYVIQvMzPQE2ViBHMrygDJcGhs0UuGw/edit?usp=sharing)">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Data Analysis and Query Filtering (SQL Investigation Focus) | <a href="https://docs.google.com/document/d/1R_3XYYPD3KxAHYVIQvMzPQE2ViBHMrygDJcGhs0UuGw/edit?usp=sharing">SQL Lab</a>|
+| Access Control Fundamentals | <a href="https://docs.google.com/document/d/1DZY9M3O5_bTW0kcSSyrHdsV5dnGy1YNi39cI6-tFxqA/edit?usp=sharing">File permissions in Linux Lab</a>|
+| Core data manipulation and file I/O operations  | <a href="https://docs.google.com/document/d/10UPHAaHRCt5Y2myAZTI6G495_OYrfNCGCKIRA8_8SnQ/edit?usp=sharing">Update a file through a Python algorithm</a>|
+| Network Fundamentals      | <a href="https://docs.google.com/document/d/1qB942yV5dns4tDIIG2fU9jsMc3eglUl8m7Ce8ssZT6o/edit?usp=sharing">Building a Home virtual network</a>|
+| Wazuh SIEM Active Defense| <a href="https://docs.google.com/document/d/1m1hJ9mhdFWQ4-WHX_XXMj4VcpL7IEGvuyd9ZauDnshQ/edit?usp=sharing">Building a Free, Automated SIEM Lab</a>|
+| Threat Detection & Analysis | <a href="">File permissions in Linux Lab</a>|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>

@@ -46,7 +46,7 @@ Seeking Cyber Security Analyst Roles and Internships
 
 ## Certifications
 <div>
-(In progress) (Anticitpated Completion Febuary 2025)
+(In progress) (Anticitpated Completion Febuary 2026)
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
